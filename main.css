@@ -1,0 +1,22 @@
+#timer {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 40px;
+}
+
+#start {
+  padding: 10px 30px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+#stop {
+  padding: 10px 30px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+#reset {
+  padding: 10px 30px;
+  font-size: 20px;
+}
